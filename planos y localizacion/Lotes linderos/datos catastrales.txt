@@ -1,0 +1,20 @@
+CHICO
+
+230 207 230 108 601 4000 	(NUMERO CATASTRAL: para el mapa no van los ultimos tres ceros)
+
+230 204 976 355 		(NUMERO DE CUENTA)
+
+23-01-086-14
+
+tipo inmueble	estado	departamento	pedania		pueblo
+urbano		baldio	punilla		San Antonio	Casa Grande
+
+
+GRANDE
+230 207	230 108 601 3000 	(NUMERO CATASTRAL)
+
+230 204 975 731			(NUMERO DE CUENTA)
+
+23-01-086-13 	designacion catastral: 	(LOTE/circuito - seccion - Manzana - Parcela)
+		designacion oficial: 	(Lote: 0023 - Manzana: 0002)
+
