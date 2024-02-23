@@ -1,0 +1,26 @@
+PAGADOR			FECHA			COMPROBANTE
+  NN		  1992/00 a 1999/40		    ???
+
+Mansutti	  2000/10 a 2006/00  	     VARIOS INDIVIDUALES
+
+Papá		  2009/10 a 2013/20	     	    0779
+		  2013/30			    5764
+		  2014/40			    1559
+		  2014/50			    1567
+
+Buscar		  2015/01 a 2019/12	       Plan: ...16467 pagado en 10/06/2020,  
+		  Debito automático Mercado Pago		        11/07/2020, 
+									09/08/2020,  
+									10/09/2020,
+									13/10/2020,
+									10/11/2020,
+									10/12/2020,
+									11/01/2021.
+
+		  2020/01 a 2020/05		    15714		VISA CREDITO
+		  2020/06 a 2020/12		    15725		VISA CREDITO
+		
+
+
+
+
