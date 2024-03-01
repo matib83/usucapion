@@ -1,3 +1,19 @@
 Acceso al formulario enviado al registro personal de poseedores
 
 https://fid.cba.gov.ar/ee-suac-web-ciudadano/#/tramite/020489011148524
+
+Consulta formulario y LEGAJO
+
+https://consultasuac.cba.gov.ar/
+
+por numero de tramite: 0204890111524
+
+por numero de legajo: 0535-114167/2024
+
+Verificar estado: el lunes 18/03/24
+
+
+teléfono: 0351-4342441
+opc 10: Mesa de entrada (María) a la tarde.
+
+
